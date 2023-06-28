@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jun 13 10:43:27 2023
+Created on Tue Jun 11 10:43:27 2023
 Steam Game News
 @author: tiwashima
 """
